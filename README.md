@@ -1,5 +1,7 @@
 # FitWith-test-task
 To run the project do the next steps:
+If you received the project as a zip file, complete step 1.1 and go to step 3. Otherwise, start with step 1.
+1.1. Unzip the project and open it with VS Code.
 1. Clone the repository:
    Open a terminal (or command prompt) in VS Code and run the following command to clone the repository: git clone https://github.com/MykhailoSadruk/FitWith-test-task.git
 2. Go to the project directory:
